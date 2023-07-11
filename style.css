@@ -38,6 +38,69 @@ margin: 0;
     width: 450px;
     
  }
+
+ /* Featured section Syles */
+ .fea-info{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+ }
+ .fea-title{
+    font-size: 40px;
+    font-weight: 800;
+ }
+ .fea-para{
+    font-size: 18px;
+    padding-top: 10px;
+    color: #222;
+ }
+ .fea-gallery{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: space-around;
+ }
+ .fea-gl-img{
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 0;
+    border-radius: 150px 150px 0px 0px;
+    background-color: #E55473;
+ }
+ .fea.gl-item{
+    display: block;
+ }
+ .fl-link{
+    display: block;
+    color: black;
+    padding-top: 10px;
+ }
+ /* Core values section Syles */
+ .cr-value-gallery{
+    background-color: gainsboro;
+    max-width: 850px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+ }
+ .cr-gl-img{
+    padding: 30px;
+    padding-top: 50px;
+    padding-bottom: 0;
+ }
+ .cr.gl-item{
+    display: block;
+ }
+ .cr-para{
+    padding-top: 10px;
+ }
   /* Sale up section Syles */
   .sale-section{
     max-width: 1200px;
@@ -78,6 +141,7 @@ margin: 0;
     width: 250px;
     text-align: center;
  }
+ 
  /* Insta section Syles */
  .insta-info{
     text-align: center;
