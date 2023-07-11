@@ -1,0 +1,161 @@
+ /* Global Syles */
+ *{ 
+margin: 0;
+ }
+  /* Hero Syles */
+ .hero-section{
+    max-width: 1200px;
+    display: flex;
+    background-color: #ffd5d2;
+    align-items: center;
+    padding: 0px 120px;
+ }
+ .intro-text{
+    width: 50%;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+ }
+ .intro-title{
+    font-size: 68px;
+    font-weight: 800;
+ }
+ .intro-para{
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #222;
+ }
+ .sn-button{
+    padding: 10px 20px;
+    background-color: #E55473;
+    border: 0px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+ }
+ .flo{
+    width: 450px;
+    
+ }
+  /* Sale up section Syles */
+  .sale-section{
+    max-width: 1200px;
+    display: flex;
+    background-color: #ffd5d2;
+    align-items: center;
+    padding: 0px 120px;
+ }
+ .sale-text{
+    width: 50%;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+ }
+ .sale-title{
+    font-size: 40px;
+    font-weight: 800;
+ }
+ .txt-color{
+    color: #E55473;
+ }
+ .sale-para{
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #222;
+ }
+ .su-button{
+    padding: 10px 20px;
+    background-color: #E55473;
+    border: 0px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+ }
+ .sn-flo{
+    width: 250px;
+    text-align: center;
+ }
+ /* Insta section Syles */
+ .insta-info{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+ }
+ .insta-title{
+    font-size: 40px;
+    font-weight: 800;
+ }
+ .insta-para{
+    font-size: 18px;
+    padding-top: 10px;
+    color: #222;
+ }
+ .insta-gallery{
+    text-align: center;
+    padding-bottom: 60px;
+ }
+ .ins-gl-img{
+    width: 250px;
+    padding: 0px 8px;
+ }
+ /* Subscribe section Syles */
+ .subs-info{
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 60px;
+    background-image: url('images/Rectangle9.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0 145px;
+    margin-bottom: 70px;
+ }
+ .subs-title{
+    font-size: 40px;
+    font-weight: 800;
+ }
+ .subs-para{
+    font-size: 18px;
+    padding-top: 10px;
+    color: #222;
+ }
+.subs-form{
+    padding: 20px 0;
+}
+.input-area{
+    padding: 12px;
+    padding-right: 200px;
+    border-radius: 5px;
+    border: 0;
+    
+}
+.submit-area{
+    padding: 10px 15px;
+    background-color: #E55473;
+    color: #fff;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 0;
+}
+/* Footer section Syles */
+.footer-info{
+    background-color: #222;
+    text-align: center;
+    padding: 80px 0;
+ }
+ .footer-title{
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+ }
+ .footer-para{
+    font-size: 18px;
+    padding: 20px 0;
+    color: #fff;
+ }
+ .copyright{
+    color: bisque;
+    padding-top: 10px;
+ }
